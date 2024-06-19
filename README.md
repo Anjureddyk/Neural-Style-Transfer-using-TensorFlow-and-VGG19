@@ -9,13 +9,15 @@ Neural Style Transfer uses deep neural networks to apply the artistic style of o
 ## Installation
 1. Clone the repository:
    git clone https://github.com/Anjureddyk/Neural-Style-Transfer-using-TensorFlow-and-VGG19.git
+
    cd style-transfer
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
    python -m venv venv
+
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 
-3. Install the required packages:
+5. Install the required packages:
    pip install -r requirements.txt
 
 ## Results
